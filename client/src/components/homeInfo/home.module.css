@@ -1,0 +1,29 @@
+.container{
+    width:100%;
+}
+
+.imageHeader{
+    width: 100%;
+    height: 400px;
+    object-fit: fill;
+}
+
+.createBlogButton{
+    background-color: rgb(237, 86, 30);
+    color:white; 
+    width:150px;
+    margin:10px;
+    padding:5px;
+    border-radius: 3px;
+}
+
+.category{
+    margin-top:10px;
+    padding:5px;
+    cursor: pointer;
+    text-align: left;
+    border-bottom: solid 1px black;
+    background-color: gainsboro;
+}
+
+

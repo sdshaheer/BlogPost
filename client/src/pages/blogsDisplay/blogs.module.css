@@ -1,0 +1,31 @@
+.container{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.caedContainer{
+    width:20rem;
+    border-radius: 20px;
+}
+
+.blog{
+    width:20rem;
+    height:100%;
+    margin:3%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgb(195, 187, 187);
+}
+
+.image{
+    width:100%;
+    height:250px;
+}
+
+.innerSpan{
+    margin-left: 10px;
+}
+
+.readMore{
+    margin-left:100px;
+}

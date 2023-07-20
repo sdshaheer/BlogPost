@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+  }
+  
+  .footer > span {
+    width: 50px;
+    height: 30px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: gray;
+    text-align: center;
+    cursor: pointer;
+  }

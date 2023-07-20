@@ -1,0 +1,13 @@
+.blogImage{
+    width:60%;
+}
+
+.shadow{
+    box-shadow: 5px 5px 5px 5px #949191ef;
+}
+
+.link{
+    background-color: rgb(237, 86, 30);
+    border-radius: 3px;
+    margin-bottom: 3px;
+}
